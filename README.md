@@ -101,11 +101,3 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 </p>
 
 <br>
-> Insert your favorite quote here.
-
-Feel free to modify and add sections according to your preferences. You can use GitHub-flavored markdown along with HTML for styling. Additionally, you can include badges, images, or GIFs to add more visual appeal. Customize the color scheme and styling to match your desired theme.
-
-Once you've updated the information, you can copy and paste this into your GitHub README file. Be sure to replace placeholders like `[Your Name]`, `[Your Occupation]`, etc., with your actual information.
-
-Remember to preview your README on GitHub to ensure it looks as expected. Enjoy decorating your GitHub profile!
-
