@@ -82,7 +82,7 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
   <br />
 
 .<div align="center">
-[<img height="75" src="download.png">](https://www.linkedin.com/in/ashikur-rahman-ovi-972ab4261/)
+[<img height="75" src="download.png">](https://www.linkedin.com/in/safimiazi-972ab4261/)
 [<img height="75" src="photo.svg">](https://www.facebook.com/mdovi.7398)
 </div>
 
@@ -91,13 +91,13 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 ## 👀 Take a look
 <br />
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashikurbd71&theme=tokyonight" alt="Profile details badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safimiazi&theme=tokyonight" alt="Profile details badge"/>
 </p>
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashikurbd71&theme=tokyonight" alt="Top languages by repo badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashikurbd71&theme=tokyonight" alt="General stats badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safimiazi&theme=tokyonight" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safimiazi&theme=tokyonight" alt="General stats badge"/>
 </p>
 
 <br>
