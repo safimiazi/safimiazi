@@ -25,6 +25,9 @@
  Flexible MERN Stack Developer | Skilled in Frontend JavaScript, HTML, CSS, Tailwind CSS, and React | At ease with Backend Technologies:
 Node.js, Express.js, and MongoDB | Proficient in Firebase Deployment | Willing to Participate and Acquire Knowledge in a Changing Development Environment
 
+ #### 🌱 I’m exploring - NextJS and socket.io
+
+
 ## :mailbox: Contact with us
 
 <br/>
@@ -44,9 +47,6 @@ Node.js, Express.js, and MongoDB | Proficient in Firebase Deployment | Willing t
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=61DAFB)
 
-
-
- #### 🌱 I’m exploring - NextJS and socket.io
 
 
  ##  🔥 Projects
