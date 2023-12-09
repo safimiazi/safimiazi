@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+![The San Juan Mountains are beautiful!](/image/Purple%20Modern%20Gaming%20Youtube%20Banner.png "San Juan Mountains")
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -37,53 +37,28 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 
  ##  🔥 Projects
 
- ### Name : Ruby Medical Camp
+ ### Name : Parcel Management System [Full-Stack Website]
 
- .This is a medical camp management website.This website has four sections. Home, Dashboard, Available Camp, and Contact. Home section contains navber, banner, popular cam, (Camps with more than participants joined will be shown in popular camp section) about and footer. Each user will be given access to the dashboard according to their role. You can see all the camps added to available Camp Section. On this management website of ours There are three user roles. A normal participant. An organizer and a professional or doctor.
+ Live Site || Frontend-Github-Link || Backend-Github-Link
 
-.You have to select your role while registering on the website. And according to the role. Access to the dashboard will be provided.There is a separate profile section for each. Where user can update his profile according to his role
+Project Description
+An online platform called Parcel Management App allows users to book parcels for delivery, designate a delivery person, and have the delivery person deliver the parcel.
+JWT is implemented for stateless authentication, scalability and security.
+Firebase Authentication added for Login and Registration.
 
-.Participants will be able to watch the Camps in progress at the available camp. And the camp cards as per his wish by clicking on the joining button. You can register. How to register it? will be displayed on the Participant Dashboard. There a participant can manages his Camps. There is an option to Pay the camp. You click on the option. Participant can pay camp fee. If the payment is not made, its initial status will be shown as unpaid. After making the payment it will be paid. And payment history section of his dashboard will be displayed. But his confirm status will be pending and an organizer will confirm from pending.
-
-.Here the organizer can add his games. And can manage it. Organizer can update and delete.The Organizer can manage the registered camps of the Participant. Participant Camps will have status Pending when they register. Those Camps will be confirmed by the organizer. And after confirmation you can delete the Camps .if you want There is a separate dashboard for the organizer. Each organizer can only see the camps they have added.
-
-.The organizer dashboard has a section named upcoming camp. Here the organizer can add upcoming Camps. And can manage them. Upcoming camps will be shown in the up coming section of the home. And Upcoming section cards will have details button by clicking on which participant can register for upcoming camps. And likewise professionals or doctors may show interest in up coming camps. And an organizer will post the upcoming games in the available camp based on participant and professional registration.
-
-.Professionals' dashboard will have two sections. . his profile and his interests Camps. There its status will be Pending if Organizer accepts it then it will be confirmed from Pending.
-
-### Live Link : https://ruby-medical-camps.surge.sh
+Technologies: React.js, JavaScript (ES6), Node.js Express.js, Tailwind CSS, Firebase, MongoDB
 
 
- ### Name : Squarespace
+ ### Name : Restaurant Management System [Full Stack Website]
 
- .This is a block website where a user can post and read blogs
+ Live Site || Fronted-Github-Link || Backend-Github-Link
 
-.Our website has Home Page Hater Section Banner Section Recent Block Section News Letter Section About Section Contact Section and Footer
+Project Description
+Foods can be ordered by customers using the specified categories.
+Customer needs to log in to the app in order to order food.
+Firebase authentication is utilized in the process of authentication.
 
-.Our napper has five outs block ad block fresher block wis list and all block. The Recent Blocks section of the home section shows the blocks newly added by the user. The All Blogs section displays all types of user blogs, and has a search bar and category fielder to browse the blogs of your choice. Can search by category filter
-
-.Each box card shows the box title, category and details. And there are two buttons named Wish List and Details. On clicking, the user can see the details of a single block. And he will be taken to details round. User can comment. But if there are blocks added by the user then the user cannot comment there. But can update. If the user is blocked then the user can update but not because the button will remain hidden.
-
-.User can see his added blocks in wish list route. And he can delete from the wish list if he wants. The user must login and then enter. Because without the token, the user will not be able to see his data
-
-### Live Link : https://phsquarespace.surge.sh
-
-
-### Name : Bd-Shop
-
-.home  route of this website has four sections. There are two more sections with Navber banners.
-
-.There are three other pages along with the homepage. Add Card, My Card, Login and Login page. You can add products on add card page.
-
-.By clicking on any brand in the My Brands section of the user home page, one can see the products of that brand. And there are Update and Details buttons. You can update the product by clicking update. Click on the details button to view the details of the product. And there is a button called Edcut.
-
-.Click on Edcut button. Clicked products will be added to My Card page. And if you want, you can go to the My Card page and see the cards you have added.  and can delete.
-
-.There are four private routes on our website. Add Card, My Card Product Details, Update, User cannot enter these sections without login.User image and name are shown when user login. And a default image will be shown to the user when he is not logged in. And if the user wants to log out by clicking on his profile image, the log out button will drop down.
-
-
-### Live Link :  https://bd-committee.surge.sh
-
+Technologies: React.js, JavaScript (ES6), Node.js Express.js, Tailwind CSS, Firebase, MongoDB
 
 
 ## :mailbox: Reach me out
