@@ -3,11 +3,7 @@
 ![The San Juan Mountains are beautiful!](/image/Purple%20Modern%20Gaming%20Youtube%20Banner.png "San Juan Mountains")
 
 
-<p align="center">
-  <a href="https://www.facebook.com/Itssafimiazi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" fill="#7A109C" />
-  </a>
-</p>
+
 
 
 
