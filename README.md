@@ -21,10 +21,10 @@
 
 ##  💫 About Me 
 
- Flexible MERN Stack Developer | Skilled in Frontend JavaScript, HTML, CSS, Tailwind CSS, and React | At ease with Backend Technologies:
+ Flexible full Stack Developer | Skilled in Frontend JavaScript, HTML, CSS, Tailwind CSS, React and Next.js, Redux and TypeScript | At ease with Backend Technologies:
 Node.js, Express.js, and MongoDB | Proficient in Firebase Deployment | Willing to Participate and Acquire Knowledge in a Changing Development Environment
 
- #### 🌱 I’m exploring - NextJS and socket.io
+ #### 🌱 I’m exploring - socket.io
 
 
 ## :mailbox: Contact with us
