@@ -21,8 +21,22 @@
 
 ##  💫 About Me 
 
- Flexible full Stack Developer | Skilled in Frontend JavaScript, HTML, CSS, Tailwind CSS, React and Next.js, Redux and TypeScript | At ease with Backend Technologies:
-Node.js, Express.js, and MongoDB | Proficient in Firebase Deployment | Willing to Participate and Acquire Knowledge in a Changing Development Environment
+
+👋 Hi there! I’m Mohebulla Miazi, a passionate and versatile Full Stack Developer with a knack for building scalable, responsive, and user-friendly web applications. I enjoy working on both the frontend and backend, crafting solutions that merge functionality with aesthetics.
+
+🌟 Tech Stack & Skills
+Frontend
+Languages & Frameworks: JavaScript, HTML, CSS
+Libraries & Tools: React.js, Next.js, Redux, TypeScript
+Styling: Tailwind CSS, Responsive Design
+Backend
+Languages & Frameworks: Node.js, Express.js
+Database: MongoDB
+Others: Firebase Deployment
+🚀 What Drives Me
+Staying adaptable in the ever-evolving tech landscape.
+Continuously learning new tools and frameworks to deliver innovative solutions.
+Collaborating with like-minded developers to create impactful software.
 
  #### 🌱 I’m exploring - socket.io
 
